@@ -27,6 +27,8 @@ The course is for Python developers, researchers, and data scientists who are fa
 ### Technical Requirements
 Recommended Hardware Requirements<br/>For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<br/><ul><li>Operating system: Mac/Linux</li><li>Processor: 2.0GHz quad core</li><li>Memory: 16GB</li><li>Storage: 4GB</li></ul><br/>Software Requirements<ul><li>Python Anaconda installation</li><li>Jupyter notebooks</li><li>Spacy and textblob installed using conda</li><ul>
 
+
+
 ## Related Products
 * [Natural Language Processing with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781787286085)
 
